@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+Pillow
+python-jose
+fastapi-cors
+python-dotenv
+huggingface-hub
